@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thesobercoder/thesobercoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/thesobercoder"><img src="https://api.daily.dev/devcards/a5faccd02f3c449082e803b1c0a0d7ca.png?r=r0a" width="400" alt="Soham Dasgupta's Dev Card"/></a>
