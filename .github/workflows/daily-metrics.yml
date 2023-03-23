@@ -51,7 +51,6 @@ jobs:
 
           # Notable contributions
           plugin_notable: yes
-          plugin_notable_filter: stars:>25
           
   achievements:
     runs-on: ubuntu-latest
