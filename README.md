@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="left">
    <a href="https://twitter.com/thesobercoder">
     <img
-      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      src="https://img.shields.io/twitter/follow/thesobercoder?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     />
   </a>
   <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img width="256" align="right" src="https://raw.githubusercontent.com/thesobercoder/thesobercoder/main/devcard.svg" />
+    <img width="256" align="right" src="/devcard.svg" />
   </a>
 </div>
 
@@ -38,3 +38,7 @@ Here are some ideas to get you started:
 - :nerd_face: Software Engineering Manager at Deloitte
 - :microphone: Currently working on .NET, microservices, distributed applications.
 - :heart: Loves Next.js, React.js, .NET, go.
+
+![Metrics](/github-metrics.svg)
+![Notable contributions](/notable.svg)
+![Achievements](/achievements.svg)
