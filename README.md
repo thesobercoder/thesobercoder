@@ -28,7 +28,7 @@ Here are some ideas to get you started:
       alt="LinkedIn"
     />
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://api.daily.dev/get?r=thesobercoder" target="_blank">
+  <a target="_blank" rel="noopener noreferrer" href="https://app.daily.dev">
     <img width="256" align="right" src="/devcard.svg" />
   </a>
 </div>
