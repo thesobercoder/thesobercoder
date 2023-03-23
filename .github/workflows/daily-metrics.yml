@@ -11,6 +11,8 @@ on:
 jobs:   
   stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@v3.32
         with:
@@ -29,6 +31,8 @@ jobs:
 
   notable:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@v3.32
         with:
@@ -54,6 +58,8 @@ jobs:
           
   achievements:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@v3.32
         with:
