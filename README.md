@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 
 ## I'm Soham Dasgupta
 
-- :nerd_face: Software Engineering Manager at Deloitte
-- :microphone: Currently working on `.NET`, `microservices`, `distributed applications`.
-- :heart: Loves `Next.js`, `React`, `.NET`, `go`.
+- 🚀 Code it like you mean it!
+- 📚 Always learning, always coding.
+- 🤝 Collaborate and conquer!
+- 💻 Debugging is my cardio.
+- 🔧 Crafting code, building solutions.
 
 ![Metrics](/github-metrics.svg)
 ![Notable contributions](/notable.svg)
