@@ -1,25 +1,26 @@
 # Hi there 👋
 
 <div align="left">
-   <a target="_blank" href="https://twitter.com/thesobercoder">
+   <a href="https://twitter.com/thesobercoder">
     <img
       src="https://img.shields.io/twitter/follow/thesobercoder?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/sohamdasgupta">
+  <a href="https://www.linkedin.com/in/sohamdasgupta">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
-  <a target="_blank" href="https://app.daily.dev">
+  <a href="https://app.daily.dev">
     <img width="256" align="right" src="/devcard.svg" />
   </a>
 </div>
 
-## I'm Soham Dasgupta
+## I am Soham Dasgupta
 
+- 🧑‍💻 Software Engineering Manager at Deloitte
 - 🚀 Code it like you mean it!
 - 📚 Always learning, always coding.
 - 🤝 Collaborate and conquer!
