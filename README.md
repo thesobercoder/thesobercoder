@@ -25,7 +25,7 @@
 - 📚 Always learning, always coding.
 - 🤝 Collaborate and conquer!
 - 💻 Debugging is my cardio.
-- 🔧 Crafting code, building solutions.
+- 🔧 Crafting code, building solutions, rocketing my team to success.
 
 ![Metrics](/github-metrics.svg)
 ![Notable contributions](/notable.svg)
