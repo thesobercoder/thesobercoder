@@ -20,7 +20,7 @@
 
 ## I am Soham Dasgupta
 
-- 🧑‍💻 Software Engineering Manager at Deloitte
+- 😎 Software Engineering Manager at Deloitte
 - 🚀 Code it like you mean it!
 - 📚 Always learning, always coding.
 - 🤝 Collaborate and conquer!
