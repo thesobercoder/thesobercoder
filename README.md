@@ -31,6 +31,8 @@
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesobercoder&show_icons=true&theme=dark)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesobercoder&theme=dark)](https://git.io/streak-stats)
+
 ![Metrics](/github-metrics.svg)
 ![Notable contributions](/notable.svg)
 ![Achievements](/achievements.svg)
