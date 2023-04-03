@@ -3,13 +3,13 @@
 <div align="left">
    <a href="https://twitter.com/thesobercoder">
     <img
-      src="https://img.shields.io/twitter/follow/thesobercoder?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
       alt="Twitter"
     />
   </a>
   <a href="https://www.linkedin.com/in/sohamdasgupta">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
@@ -30,6 +30,12 @@
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesobercoder&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesobercoder&theme=dark)
 
+![Metrics](/github-metrics.svg)
+![Notable contributions](/notable.svg)
+![Achievements](/achievements.svg)
+
+## Skills
+
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,7 +50,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-![Metrics](/github-metrics.svg)
-![Notable contributions](/notable.svg)
-![Achievements](/achievements.svg)
