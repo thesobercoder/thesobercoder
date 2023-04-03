@@ -27,6 +27,9 @@
 - 💻 Debugging is my cardio.
 - 🔧 Crafting code, building solutions, rocketing my team to success.
 
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesobercoder&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesobercoder&theme=dark)
+
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,11 +44,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesobercoder&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesobercoder&theme=dark)
 
 ![Metrics](/github-metrics.svg)
 ![Notable contributions](/notable.svg)
