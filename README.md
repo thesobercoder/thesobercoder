@@ -2,16 +2,13 @@
 
 <div align="left">
    <a href="https://twitter.com/thesobercoder">
-    <img
-      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
-      alt="Twitter"
-    />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/sohamdasgupta">
-    <img
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/238631/soham-dasgupta">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
   </a>
   <a href="https://app.daily.dev">
     <img width="256" align="right" src="/devcard.svg" />
