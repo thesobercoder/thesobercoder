@@ -24,7 +24,7 @@
 - 💻 Debugging is my cardio.
 - 🔧 Crafting code, building solutions, rocketing my team to success.
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesobercoder&show_icons=true&theme=dark&card_width=495px)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesobercoder&show_icons=true&theme=dark&card_width=500px)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesobercoder&theme=dark&card_width=500px)
 
 ![Metrics](/github-metrics.svg)
