@@ -17,7 +17,7 @@
 
 ## I am Soham Dasgupta
 
-- 😎 Director, Software Engineering at LeaseAccelerator
+- 😎 Director, Software Engineering at LeaseAccelerator.
 - 🚀 Code it like you mean it!
 - 📚 Always learning, always coding.
 - 🤝 Collaborate and conquer!
