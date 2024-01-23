@@ -25,7 +25,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.782340862423005 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.86721423682407 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -134,7 +134,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="119.9497487437186 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="121.5075376884422 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -152,10 +152,10 @@
                                     <span class="prefix"></span>
                                     Follower
                                     <div class="value-wrapper">
-                                        <div class="value">155</div>
+                                        <div class="value">157</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 155 users</div>
+                                <div class="text">Following 157 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -193,7 +193,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.51m out of 128m users</span>
+                                    <span class="gh">ranked 8.52m out of 126m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -278,7 +278,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 808k out of 58m repositories</span>
+                                    <span class="gh">ranked 808k out of 53.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">14</div>
                                     </div>
@@ -333,7 +333,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 633k out of 128m users</span>
+                                    <span class="gh">ranked 633k out of 126m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
@@ -374,7 +374,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 532k out of 58m repositories</span>
+                                    <span class="gh">ranked 532k out of 53.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">56</div>
                                     </div>
