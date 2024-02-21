@@ -13,8 +13,8 @@
   <a href="https://thesobercoder.in">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
-  <a href="https://app.daily.dev">
-    <img width="256" align="right" src="/devcard.svg" />
+  <a href="https://app.daily.dev/thesobercoder">
+    <img width="256" align="right" src="/devcard.png" />
   </a>
 </div>
 
