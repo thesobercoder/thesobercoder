@@ -20,7 +20,7 @@
 
 ## I am Soham Dasgupta
 
-- 😎 Director, Software Engineering at LeaseAccelerator.
+- 😎 Principal Software Engineer at insightsoftware.
 - 🚀 Code it like you mean it!
 - 📚 Always learning, always coding.
 - 🤝 Collaborate and conquer!
